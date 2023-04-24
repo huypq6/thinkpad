@@ -1,9 +1,15 @@
 # This is configuration to enhance your thinkpad using LINUX
 
+This is may useful for those who are using Thinkpad with Linux. 
+
+T14, T14s, P14s or others models.
+
 ## 1. Monitor
 Currently, i am using Thinkpad P14s with basic screen 1920x1200 resolution, 45% NTSC. 
 
 This screen is not good for reading and coding, so i calirated and modified color a litte bit for viewing comfortable. 
+
+Import the ```Thinkpad_P14s_Calibrated.icm``` to color profile and use it as default. 
 
 Below is before and after calibrated
 
